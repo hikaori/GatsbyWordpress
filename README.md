@@ -94,4 +94,12 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
 
+##tutorial
+series https://github.com/ivandoric/Gatsby-WordPress
+#1 -> wordpress と gatsby をコネクト
+#2 -> 投稿ページ一覧作成
+#3 -> メニュー作成
+#4 -> ページネーション(今回対応しない)
+#5 -> カスタムフィールド
+
 <!-- AUTO-GENERATED-CONTENT:END -->
