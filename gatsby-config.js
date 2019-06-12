@@ -48,6 +48,7 @@ module.exports = {
           "/*/*/tags",
           "/*/*/taxonomies",
           "/*/*/users",
+          "/wp-api-menus/**",
         ],
       },
     },
