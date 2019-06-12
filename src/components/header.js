@@ -6,7 +6,6 @@ import MainMenu from "./Menu/MainMenu"
 const Header = ({ siteTitle }) => (
   <header
     style={{
-      background: `rebeccapurple`,
       marginBottom: `1.45rem`,
     }}
   >
@@ -26,9 +25,9 @@ const Header = ({ siteTitle }) => (
           }}
         >
           {/* {siteTitle} */}
-          <MainMenu />
         </Link>
       </h1>
+      <MainMenu />
     </div>
   </header>
 )
